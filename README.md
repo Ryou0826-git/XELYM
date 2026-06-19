@@ -1,8 +1,7 @@
 # XELYM
 XELYM (XlinkEd poLYmer gel Modeling tools)のソースコード（開発段階中）
 
-基本的にjson形式のファイルを読み込ます形式
-コンパイル後，例えば以下のようなjsonのインプットファイルを用意した上で，
+コンパイル後，例えば以下のようなjson形式のインプットファイルを用意した上で，
 ```json
 {
 "mode": "crosslinking-radical",
