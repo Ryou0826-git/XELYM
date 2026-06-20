@@ -20,7 +20,8 @@ XELYM (XlinkEd poLYmer gel Modeling tools)のソースコード（開発段階�
  "../data_set/charge/bis/charge_0-0-1-1.dat",
  "../data_set/charge/bis/charge_0-1-1-1.dat",
  "../data_set/charge/bis/charge_1-1-0-1.dat",
- "../data_set/charge/bis/charge_1-1-1-1.dat"],
+ "../data_set/charge/bis/charge_1-1-1-1.dat"
+],
 "selpol": ["C1_Ni", "C2_Ni"],
 "selcross": ["C2_BIS", "C1_BIS", "C6_BIS", "C7_BIS"],
 "startlist": [30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360, 390, 420, 450, 480, 510, 540, 570, 600],
